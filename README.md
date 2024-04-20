@@ -10,11 +10,15 @@
 | Строки           | <ul><li> <input type="checkbox" disabled /> Radix sorts </li><li> <input type="checkbox" disabled /> Tries </li> <li> <input type="checkbox" disabled /> KMP </li> <li> <input type="checkbox" disabled /> Регулярные выражения </li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Advanced         | <ul><li> <input type="checkbox" disabled /> B-tree </li><li> <input type="checkbox" disabled /> Suffix array </li> <li> <input type="checkbox" disabled /> Maxflow </li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
+## [Road map со ссылками на упражнения](https://neetcode.io/roadmap)
+![alt text](pictures/road_map.png)
+
 ## Литература
 * "Алгоритмы. Руководство по разработке" Стивен Скиена
 * "Алгоритмы" Роберт Седжвик, Кевин Уэйн
 * "Ресурсно-эффективные компьютерные алгоритмы" Ульянов
 * [LeetCode](https://leetcode.com/)
+* [NeetCode](https://neetcode.io/practice)
 * [Яндекс Контест](https://contest.yandex.ru/)
 * [Яндекс тренировки по алгоритмам](https://yandex.ru/yaintern/algorithm-training)
 * [Timus Online Judge](https://acm.timus.ru/)
